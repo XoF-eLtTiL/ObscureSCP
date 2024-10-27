@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision v1.2.6 - Purple & Blue Edition",
+    "name": "ClearVision v1.2.6 - Purple & Blue YanHua Edition",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
     "authors": [
       {
@@ -505,7 +505,7 @@
         "PLUM_16": "#201a3e"
     },
     "background": {
-        "url": "https://github.com/XoF-eLtTiL/ObscureSCP/blob/68630196c80017dcc4852c15415f024b384377eb/3bbddb72-de92-41fe-881e-d84f818a8777-profile_banner-480.png",
+        "url": "https://github.com/XoF-eLtTiL/ObscureSCP/blob/master/3bbddb72-de92-41fe-881e-d84f818a8777-profile_banner-480.png?raw=true",
         "alpha": 0.25
     },
     "plus": {
